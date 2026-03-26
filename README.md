@@ -1,4 +1,4 @@
-# agent-primitives
+# agent-library
 
 A curated library of reusable agent tooling—rules, skills, agents, commands, MCP servers, hooks, and related assets—scoped to specific domains. It is designed for use with AI agents and tools like Claude and Cursor.
 
