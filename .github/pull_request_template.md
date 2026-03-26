@@ -18,9 +18,6 @@
 
 ## Checklist
 
-- [ ] Tests pass (`pnpm turbo test --affected`)
-- [ ] Lint and format check pass (`pnpm turbo lint:ci --affected`)
-- [ ] Build succeeds (`pnpm turbo build --affected`)
 - [ ] Changes have been self-reviewed
 - [ ] Relevant documentation has been updated (if applicable)
 
