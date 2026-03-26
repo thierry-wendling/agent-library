@@ -7,7 +7,7 @@ This repository follows the same component model as [Cursor plugins](https://cur
 | Component | Role |
 | :--- | :--- |
 | **Rules** | Persistent AI guidance and coding standards (e.g. `.mdc` under `rules/`) |
-| **Skills** | Specialized agent capabilities for complex tasks (e.g. `skills/*/SKILL.md`) |
+| **Skills** | Specialized agent capabilities for complex tasks (e.g. `skills/*/SKILL.md`; see `skills/engineering-performance-review/`) |
 | **Agents** | Custom agent configurations and prompts |
 | **Commands** | Agent-executable command files (e.g. `commands/`) |
 | **MCP servers** | Model Context Protocol integrations (config and server definitions as added) |
